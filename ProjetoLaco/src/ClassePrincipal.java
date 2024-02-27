@@ -13,6 +13,10 @@ public class ClassePrincipal {
 				System.out.printf(num + " * " + i + " = ");
 				System.out.println(num * i);
 			}
+			for(int i=0; i<=10; i++){
+				System.out.printf(num + " + " + i + " = ");
+				System.out.println(num + i);
+			}
 			break;
 		}
 	}
